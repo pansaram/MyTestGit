@@ -1,1 +1,3 @@
 Hello This is my second file.. by pansa
+Hey i git it to machine..
+Thank you git..
